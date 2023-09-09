@@ -1,0 +1,7 @@
+.class-one{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+.class-two{
+    background-color: hsl(60, 100%, 50%);
+}
